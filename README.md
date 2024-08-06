@@ -6,7 +6,8 @@
 
 ## Tech Stack
 
-AWS : S3, Glue, Lambda, QuickSight, Athena
+AWS : S3, Glue, Lambda, QuickSight, Athena, PySpark
+Language : Python
 
 ## Purpose of Project
 - To retrieve insights from Youtube's data.
